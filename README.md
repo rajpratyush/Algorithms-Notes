@@ -2,4 +2,4 @@
 
 ***
 
-## Pdfs of Algorithms 
+## Pdf Notes of Algorithms 
